@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/facerecoapp/static/css/main.cff5eb8f.chunk.css",
+    "main.js": "/facerecoapp/static/js/main.c96ad1c5.chunk.js",
+    "main.js.map": "/facerecoapp/static/js/main.c96ad1c5.chunk.js.map",
+    "runtime~main.js": "/facerecoapp/static/js/runtime~main.deb2084e.js",
+    "runtime~main.js.map": "/facerecoapp/static/js/runtime~main.deb2084e.js.map",
+    "static/css/2.31dafeb2.chunk.css": "/facerecoapp/static/css/2.31dafeb2.chunk.css",
+    "static/js/2.650421db.chunk.js": "/facerecoapp/static/js/2.650421db.chunk.js",
+    "static/js/2.650421db.chunk.js.map": "/facerecoapp/static/js/2.650421db.chunk.js.map",
+    "index.html": "/facerecoapp/index.html",
+    "precache-manifest.84b305744d1fa2ef3af8ca01e88daec1.js": "/facerecoapp/precache-manifest.84b305744d1fa2ef3af8ca01e88daec1.js",
+    "service-worker.js": "/facerecoapp/service-worker.js",
+    "static/css/2.31dafeb2.chunk.css.map": "/facerecoapp/static/css/2.31dafeb2.chunk.css.map",
+    "static/css/main.cff5eb8f.chunk.css.map": "/facerecoapp/static/css/main.cff5eb8f.chunk.css.map"
+  }
+}
