@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "706c08c673fb4a94df2103d34e2f8a0a",
+    "revision": "c0798b528c70f2e3891ee93783cf6d9e",
     "url": "/facerecoapp/index.html"
   },
   {
-    "revision": "d09e70ac6e3d34137d82",
+    "revision": "55885b6e82b5483fcc5e",
     "url": "/facerecoapp/static/css/2.31dafeb2.chunk.css"
   },
   {
-    "revision": "3096dc9e365e308ed535",
+    "revision": "66219f393e2acecf780e",
     "url": "/facerecoapp/static/css/main.cff5eb8f.chunk.css"
   },
   {
-    "revision": "d09e70ac6e3d34137d82",
-    "url": "/facerecoapp/static/js/2.650421db.chunk.js"
+    "revision": "55885b6e82b5483fcc5e",
+    "url": "/facerecoapp/static/js/2.207644cb.chunk.js"
   },
   {
-    "revision": "3096dc9e365e308ed535",
-    "url": "/facerecoapp/static/js/main.c96ad1c5.chunk.js"
+    "revision": "66219f393e2acecf780e",
+    "url": "/facerecoapp/static/js/main.c36a2844.chunk.js"
   },
   {
     "revision": "d73af0868c06bfedb0db",
