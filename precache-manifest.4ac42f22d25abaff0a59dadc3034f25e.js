@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "c0798b528c70f2e3891ee93783cf6d9e",
+    "revision": "881f0a83ded52532c8fdb6f0f9ae6914",
     "url": "/facerecoapp/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/facerecoapp/static/css/2.31dafeb2.chunk.css"
   },
   {
-    "revision": "66219f393e2acecf780e",
+    "revision": "820503d3b526a721184c",
     "url": "/facerecoapp/static/css/main.cff5eb8f.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/facerecoapp/static/js/2.207644cb.chunk.js"
   },
   {
-    "revision": "66219f393e2acecf780e",
-    "url": "/facerecoapp/static/js/main.c36a2844.chunk.js"
+    "revision": "820503d3b526a721184c",
+    "url": "/facerecoapp/static/js/main.6eb2f143.chunk.js"
   },
   {
     "revision": "d73af0868c06bfedb0db",
